@@ -5,8 +5,6 @@ import React from "react";
 import Button from "../Button";
 import Higlight from "react-highlight";
 
-import "../atom-theme.css";
-
 function Page() {
   return (
     <>
