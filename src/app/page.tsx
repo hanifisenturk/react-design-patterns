@@ -9,6 +9,7 @@ export default function Home() {
     <main>
       <Link href="/hoc">HOC PATTERN</Link>
       <Link href="/render-props">RENDER PROPS PATTERN</Link>
+      <Link href="/split-screen">SPLIT SCREEN PATTERN</Link>
     </main>
   );
 }
